@@ -20,17 +20,17 @@ pip install -r requirements.txt
 
 Scrape all lineups:
 ```bash
-python lineups_scraper.py
+python scraper.py
 ```
 
 Scrape a specific agent or map:
 ```bash
-python lineups_scraper.py --agent Sova --map Ascent
+python scraper.py --agent Sova --map Ascent
 ```
 
 ## Data Structure
 
-Results are saved to `valorant_lineups.json` in the following format:
+Results are saved to `data/lineups.json` in the following format:
 
 ```json
 [

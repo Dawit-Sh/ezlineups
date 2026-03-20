@@ -1,0 +1,3583 @@
+[
+  {
+    "agent": "Sova",
+    "map": "Abyss",
+    "lineups": [
+      {
+        "title": "Abbys_b-default",
+        "description": "1. Go to corner of the nest\n2. Put your bow out, put the middle of your bar on the \"highest brick\"\n(like you see in the picture)\n3. Make it so it bounces once, Fully draw your bow, and just shoot\n4. Profit! ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/4022/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4022/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4022/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Ascent",
+    "lineups": [
+      {
+        "title": "Post Plant A Generator Lineup",
+        "description": "Use this lineup to stall the defuse when the spike is planted next to Generator.\n1. Stand against the radianite boxes in A Lobby (image 1).\n2. Place the bottom of the Snake Bite icon on the corner of the explosion (image 2).\n3. Fire your Snakebite or a 2 bar 0 bounce Shock Bolt (if using Sova, aim slightly lower for step 2).\nUsed by V1 effys in VCT Masters Reykjavik.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/10/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/10/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/10/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Site Plant Denial Double Shock",
+        "description": "1. Stand against the edge of this wall in CT spawn\n2. Align bottom left charge bar with tip of roof on the building, 3 bar\n3. Wait exactly 4.5 seconds (Use counting strategies below)\n4. Align right tip of right bounce diamond with right valley of the roof tile as shown, 2 bar\n\nCounting Strategies: \nUsing the form \"1 Mississippi\" count until \"4 Miss,\" then fire\nUsing the form \"1 Tick-Tock\" count until \"4 Tick,\" then fire",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/419/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/419/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/419/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/419/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Toxin From A Garden to A Wine",
+        "description": "Use this toxin with a killjoy ult to get kills or flush them out of wine\n1. stand next to box as shown on image 1\n2.line up as shown on image 2 and throw (don't sprint or jump)\n3.lands in A wine which flushes anyone out",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1172/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1172/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1172/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly From B Lobby to Boxes",
+        "description": "1. Stand in this corner of B lobby\n2. Aim your crosshair like on an image 2\n3. Do a normal throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1688/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1688/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1688/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Top mid to Default A Viper Post Plant",
+        "description": "1. Stand in the corner behind the green box at Top Mid.\n2. Aim the left tip of your right hud on the top corner of the metal band going around the building.\n3. Do a normal throw and this will land in front of Generator.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1001/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1001/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1001/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant B Dice From Back of B Lobby",
+        "description": "1. In B lobby, stand in the corner with the octopus.\n2. Overlay the Snakebite ability diamond on the piece of wood sticking out the left side of the broken building. \n3. Normal shot.\n\n",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1350/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1350/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1350/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant A Dice From A Lobby",
+        "description": "1. Stand in the corner against the double boxes.\n2. Aim your cross-hair at the top-left corner of the ledge with the potted plants (the mollie will fly over the ledge).\n3. Normal shoot. Mollie will bounce off the wall on A site and land dice. Lands in ~2 seconds.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1351/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1351/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1351/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Lobby to Default Post Plant",
+        "description": "1. Stand in the corner close to the entrance of B Main.\n2. Aim the right tip of your right HUD line onto the tip of the left fish's mouth.\n3. Do a NORMAL throw and this will land to cover Default Plant.\n\nWhy am I using a lineup when it isn't planted for me? Don't ask me lol I just make the lineups.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2004/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2004/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2004/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Wine to Dice Post Plant",
+        "description": "1. Stand in the back corner of Wine.\n2. Aim the right tip of your left HUD line onto the crevice.\n3. Do a NORMAL throw and this will land onto Dice Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2009/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2009/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2009/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Sova Defense Cross-map Shock + Reveal",
+        "description": "1. Get into the corner before rotating from rafters to B\n2. Shock Dart: You look up to the corner of the roof and align your top left charge-bar and do a simple 2-charge\n3. Recon Dart: Now you just lower your charge bar a bit so it touches the concrete and do the same 2-charge\n4. Now you have easy darts to help your teammates while being on the other site",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/4373/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4373/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4373/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4373/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4373/5.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Recon Bolt",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Lineup to Clean Market in Attack",
+        "description": "1. Stand in this corner. (First image)\n2. Align the tip of the orb with this tile. (second image)\n3. Simply left click\n",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/950/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/950/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/950/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Slow Orb",
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Brick Side Under Heaven Shock",
+        "description": "1. Stand in this general area of heaven\n2. Aim into the middle of the box and on the metal part at the top as shown\n3. 3 bar 2 bounce",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/422/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/422/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/422/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Ascent B Plant Stall From A Tree",
+        "description": "1. Stand in the corner of the wooden pallet below window.\n2. Aim the left tip of your C ability's hud line on the top left corner of the balcony.\n3. Do an instant jump throw and this will land perfectly in front of Dice\n\nAt this point I recommend doing a second lineup to corner plant, as people tend to go there when mollied off of dice.\n\n4. Stand in the same place, and aim the RIGHT tip of your C ability's hud line in the middle of the shadow of the right window.\n5. Do an instant jump throw and it will land in corner plant.\n\n6. Final result if both mollies are shot one after the other",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/960/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/960/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/960/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/960/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/960/5.webp",
+          "https://lineupsvalorant.com/static/lineup_images/960/6.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Ascent a Lobby to Hell Plant Molly",
+        "description": "1. Stand in front of the green box in lobby.\n2. Aim the right tip of your left hud line on the top right of the piece of metal with a circular thing in the middle.\n3. Shoot normally and the molly will land in front and slightly inside of A Hell.\n\nCredits to Jinzled on Youtube (On streams not any specific video)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/965/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/965/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/965/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Post-plant A Generator From Attacker Spawn",
+        "description": "1. Stand on the ping with the table-thing in front of you.\n2. Aim your cross-hair inside the \"U\" formed by the broken roof.\n3. Jump &amp; immediately shoot.\n\nNote: Mollie takes a while to travel and is too far away to hear the defusal sound. This line-up should be used in anticipation of a defuse and not reactively.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1352/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1352/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1352/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Wine to B Default Plant",
+        "description": "1. Stand in the back corner of Wine.\n2. Aim the tip of your smoke orb on the TIP of the crevice.\nBIG WARNING: PRACTICE THE POSITIONING IN CUSTOMS. IF YOU AIM TOO FAR TO THE RIGHT IT WILL BOUNCE BACK AND YOU WILL MOLLY YOURSELF.\n3. Do a NORMAL throw and this will land to cover Default Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2005/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2005/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2005/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Lobby to Behind Dice Attack Molly",
+        "description": "1.Stand in the corner in front of the radianite box.\n2. Aim the right tip of your right HUD line onto the 2nd line down in the window.\n3. Do a NORMAL throw and this will COMPLETELY clear behind Dice.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2008/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2008/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2008/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly Post Plant From B Lobby",
+        "description": "1. Back yourself against this corner on B Lobby\n2. Point to the center of the light patch of the house\n3. Do a normal throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1812/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1812/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1812/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Main to Default Post Plant",
+        "description": "4 Second Travel Time\n\n1. Stand In Middle\n2. Aim Middle of Metal",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2340/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2340/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2340/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Cubby to Dice Post-plant Molly",
+        "description": "1. Stand in the corner in Cubby.\n2. Aim the left tip of your right HUD line onto the corner of the pattern.\n3. Do a NORMAL THROW and the molly will land to cover Dice.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2495/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2495/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2495/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Wall Side Under Heaven Shock",
+        "description": "1. Stand on the plank on heaven and in between the two vertical planks as shown\n2. Aim into the middle of the diamond on the radianite crate\n3. 3 bar 2 bounce\n\nThis shock takes into consideration that enemies do not stand in the back corner, they stand towards the wall such that they aren't visible",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/423/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/423/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/423/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Ascent A Default Stall From Spawn",
+        "description": "1. Stand on the tip of the Inner corner of bricks on the ground closest to Pizza\n2. Aim the right tip of the left hud line around the middle of the last brick going downward closest to the arch. (This is not super percise)\n3. Fire with no jump and it will land in front of generator.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/959/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/959/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/959/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Ascent Cubby to A Safe Gen",
+        "description": "1. Stand in the corner of cubby closest to the dog.\n2. Aim the left tip of your right hud line at the VERY bottom left corner of the metal piece below the radio looking thing.\n3. Do a normal throw, and the molly will land in safe gen.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/961/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/961/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/961/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Ascent B Retake Viper Mollies",
+        "description": "1. Stand in the corner of the inner floor concrete closest to CT.\n2. Aim the left tip of your right hud line onto the corner of the building.\n3. Do a normal throw, and this will cover the left archway into Boathouse.\n\n4. Aim the right tip of your right hud line on where the rope meets the edge of the roof.\n5. Do a normal throw, and this will land on the right archway of Boathouse.\n\nThese are both used much more effectively when you also use an orb lineup with them, to make sure they dont push the orb.\n",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1049/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1049/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1049/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1049/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1049/5.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant A Generator From Wine (tricky)",
+        "description": "1. Stand in the back-corner of wine\n2. Line up your:\n      - cross-hair on the frame of the canopy\n      - left-most line of your HUD vertically with the light bulb\n3. Normal shoot.\n\nNote: You can be seen by people peeking from A main, so be aware of your situation  (see vision cone on image 2).",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1353/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1353/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1353/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Ascent Mid to B Site Plant",
+        "description": "1. Stand in the corner beside the stair in mid courtyard.\n2. Aim the top dot of the click icon between the two spikes.\n3. Left click and the molly will land in front of the two boxes on site.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1073/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1073/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1073/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly From A Lobby to Boxes",
+        "description": "1. Stand in this corner of Box in A lobby\n2. Aim the line of your abilities bar like on the image 2\n3. Do a jump throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1689/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1689/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1689/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Brim&#39;s Molly From a Main to A&#39;s Haven.",
+        "description": "1. Go to the Green box, on a main.\n2. Aim at the cloud,  like as the 2rd picture. \n3. Shoot and you will safe haven behind the box on a. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1976/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1976/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1976/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Incendiary",
+          "Slow Orb",
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Ascent Market to A Dice Plant Delay",
+        "description": "1. Stand in the corner on top of the boxes to the left of the door inside Market.\n2. Aim the left curving tip of the right hud line onto the top right corner of the stain that doesnt have more stains around it. (Two pictures for better reference)\n3. Do a normal throw, and this will hit in front of dice.\n\nGreat if the enemy team likes planting dice. You must really be in a bad position to use this as a post plant lineup...",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1040/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1040/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1040/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1040/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Bind",
+    "lineups": [
+      {
+        "title": "Stall Defuse A Site Truck",
+        "description": "Stall the defuse when the spike is planted next to truck from the safety of A Short using Viper&#44 Brim or Sage.\n1. Stand as shown in image 1 on the ledge in A Short.\n2. Place your crosshair just to the right of this building (image 2).\n3. Fire your molly or a two bar zero bounce shock dart.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/7/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/7/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/7/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Incendiary",
+          "Slow Orb",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Bind Viper Post Plant Long to B Default",
+        "description": "1. Plant the Spike on B Site Default (Image 1)\n2. Stand in the corner on B Long (Image 2)\n3. Align the corner of your Wall bar with the white on the wall (Image 3)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1059/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1059/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1059/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1059/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Bind A Short to Triple Viper Post Plant",
+        "description": "1. Stand on top of the short platform on the left side of short.\n2. Aim the left tip of the hud line between your smoke and wall icons onto the top right of the bottom solar panel.\n3. Do a normal throw and this will hit Triple Plant.\n\nEdit: Still works!",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1013/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1013/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1013/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant: B (middle)",
+        "description": "1. Standing in the middle of the wall (Image 1).\n2. Point the smoke icon at the pole (Image 2).\n3. it will land in the center of the box in B site (Image 3).",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/811/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/811/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/811/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Stall Default A Truck Defuse",
+        "description": "1. Stand in the corner of these 2 boxes in A Lobby.\n2. Crouch and look at the middle of the leaf in the wall and go a bit right (image 2). \n3. Crouch fire your Snakebite&#44 Slow Orb or a 2 Bar Shock Dart.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/41/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/41/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/41/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Bind A Short to Truck Plant Viper Post Plant",
+        "description": "1. Stand on the short platform in the left corner of short.\n2. Aim the left tip of the left hud line onto the far right handle of the water valve.\n3. Do a normal throw and this will land in front of Truck Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1014/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1014/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1014/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Defender Spawn to A Default Anti-plant",
+        "description": "1. Stand in the corner in front of the barrels.\n2. Aim the top left tip of your Ultimate icon into the corner of the metal beams.\n3. Do a NORMAL THROW and this will cover default plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2278/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2278/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2278/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Shock Dart / Recon on B Site",
+        "description": "1. put yourself on the flower\n2. place the logo of the shooter on the reactor \n3. shot with 2 charges and 0 bounce",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1738/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1738/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1738/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Rotating From A Deny B Plant",
+        "description": "This lineup is great to deny the plant in B default when rotating from A\n\n1. Stand in the corner of the traffic cone and barrel\n2. Aim the diamond of the smoke icon at the top of the right part of the ladder\n3. Fire, lands in ~5 seconds",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/604/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/604/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/604/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Stall A Boxes Default Defuse",
+        "description": "1. Stand in the corner of the boxes and the wall in A Lobby (image 1).\n2. Look at the middle of this patch of leaves&#44 you cant tell it apart from the others due to it having more holes in it (image 2).\n3. Shoot your Snakebite/Slow Orb/A 2 Bar Shock Bolt.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/42/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/42/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/42/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Stall B site default defuse from B long",
+        "description": "Prevent the defuse of the spike using this lineup from B long.\n1. Stand by the up-right plank in the corner in B long. (Image 1)\n2. Use your right distal hud to lineup with the stain on the wall. It's difficult to see but there is a pair of small stains side-by-side near the center of the metal panel. (Image 2)\n3. Fire your Snakebite, Slow Orb or a 2 Bar 0 Bounce Shock Bolt. (Image 3)\n\nNote:  The snake bite takes ~6 seconds to land. You cannot wait until you hear the defuse sound to shoot it. For two consecutive snake bites without a gap, count 6 seconds before shooting the other.\n        ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/234/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/234/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/234/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Slow Orb",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Outside CT to B Anti-plant",
+        "description": "1. Stand on the line in front of the poster.\n2. Aim slightly down and to the right of the spike.\n3. Do a NORMAL THROW and this will land to delay plant.\n\nCredit to nAts, god of viper, for this lineup.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2277/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2277/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2277/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Bind B Middle Plant From B Short Viper Post Plant",
+        "description": "1. Stand in front of the box by the TP.\n2. Aim the left tip of your left hud line on the corner of the dark stain on top of the slightly lighter stain. (Three pictures for better reference)\n3. Do a normal throw and the molly will hit middle plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1018/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1018/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1018/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1018/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1018/5.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Bind B Short to Right Side Default Viper Post Plant",
+        "description": "1. Stand in front of the green boxes by TP.\n2. Aim the left tip of your left hud line on the bottom of the first wood spike sticking out of Hookah's roof. (Two pictures for better reference.\n3. Do a normal jump throw, and this will land in the Right side of site's default plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1016/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1016/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1016/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1016/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Molly for A Bind",
+        "description": "1. go on this corner at the top of this barrel\n2. place the point of your smoke at the top of this lantern\n3. shoot your molly, it lands on the spike",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1447/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1447/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1447/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Bind B Short to Left Side Default Viper Post Plant",
+        "description": "*Works much better on high detail but is displayed in low detail to display that it works in low detail.\n\n1. Stand in front of the box by TP.\n2. Aim the left tip of your left hud line on the corner of the faint stain below the short dark stain on the roof of Hookah. (Three pictures for better reference.)\n3. Do a normal throw, and this will hit right side default.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1017/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1017/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1017/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1017/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1017/5.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Showers From A Short",
+        "description": "1. Start by going to A Short\n2. Go to the marked location\n2. Look at the shown location by aligning the UI\n3. Shoot your shock bolt/recon bolt at the shown settings\n4. The shock bolt/recon bolt will end up getting to the location shown in the last image",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/6018/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6018/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6018/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6018/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6018/5.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Fountain to Middle Default Post Plant",
+        "description": "1. Wedge yourself into the corner on Fountain.\n2. Aim the raised part of your left HUD line onto the black stain, not super precise so don't worry.\n3. Do a NORMAL THROW and this will land to cover Middle Default.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2319/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2319/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2319/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Prevent B Site Default Defuse",
+        "description": "1. Crouch in the corner of the boxes and the wall in B Window&#44 you should not able to be seen by enemies in B Hall.\n2. Look at the piece of wood sticking out of the wall in the ceiling and look down and left of it a bit&#44 as shown in image 2 (it should be around halfway between the edge of the ceiling and the plank).\n3. Throw your Snakebite&#44 Slow Orb or a 2 Bar Shock Bolt.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/43/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/43/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/43/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Fountain to Left Side Default Post Plant",
+        "description": "1. Wedge yourself into the corner on Fountain.\n2. Aim the right tip of your left HUD line onto the bottom brown corner.\n3. Do a NORMAL THROW and this will land to cover left side Default.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2318/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2318/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2318/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "A Lobby to Defaut Post Plant",
+        "description": "1. Stand in the corner in front of the box.\n2. Aim the upward facing line on your left HUD line onto the corner of the leaf.\n3. Do a NORMAL THROW and the molly will land to cover Default Plant",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2371/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2371/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2371/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Molly for B Bind",
+        "description": "1. go on this corner\n2. place the point of your molly at the top of this lantern\n3. shoot your molly, it lands on the spike",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1450/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1450/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1450/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Bind Viper Post Plant A Teleport to A Boxes",
+        "description": "1. Plant Spike at Boxes (Image 1)\n2. Stand behind the wooden boxes at TP (Image 2)\n3. Line the white line in your wall bar up with the white dot of the tower (Image 3)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1058/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1058/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1058/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1058/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Lobby to Triple Post Plant",
+        "description": "1. Stand in the corner in front of the box.\n2. Aim the left tip of your right HUD line onto the corner of where the railing meets the building.\n3. Do a NORMAL THROW and the molly will land to cover Triple Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2372/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2372/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2372/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Left Side Short to Gate Corner Execute",
+        "description": "1. Stand in the corner on the box in Short.\n2. Aim the right tip of your HUD line between the wall and ult icons onto the corner of the brick.\n3. Do a NORMAL THROW and the molly will land to cover Gate.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2420/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2420/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2420/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Breeze",
+    "lineups": [
+      {
+        "title": "Stall Defuse A Site Default",
+        "description": "Use this lineup to stall the defuse when the spike is planted on Default A Site.\n1. Stand in a lobby on the corner of the wall, as shown in image 1.\n2. Place the edge of your poison charge bar on the top of the corrugated metal sheets on the roof.\n3. Fire your Snakebite, Slow Orb or Shock Dart on a 2 bar 0 bounce and it will land next to the right pyramid (image 3). ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/34/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/34/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/34/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Site Post Plant Viper Molly",
+        "description": "1. Stand on the top of the rocks.\n2. Aim at the yellow leaf shown in image 2.\n3. Left-click.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1105/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1105/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1105/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Site Post Plant From Attacker Snake",
+        "description": "1. Stand on the edge of the wooden plank.\n2. Aim at the corner of the bricks.\n3. Jump and left-click.\n\nCredit to SEN Shroud in NA LCQ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1118/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1118/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1118/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Reconing Backsite A From Spawn",
+        "description": "1. put yourself on the rock\n2. look up and place the bounce logo on the sheet\n3. shoot with 2 charges 0 bounce and recon back site",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1657/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1657/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1657/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Viper Molly Post / Pre Plant A Bridge Container to Default",
+        "description": "1. Stand on the small box by the orange container by A Bridge\n2. Line up the left side of the first \"molly shoot ability\" triangle with the last leaf of the drooping leaves, to the right of the green boxes\n3. Shoot now and your lineup will hit the default A plant spot",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1234/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1234/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1234/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Breeze Duo A Site - Mid to Flank Dart",
+        "description": "This is a duo line up for omen and sova (jett and others work too)\n-------------------------------------------------------------------------------\n\n1. Stand in this corner of A site\n\n2. Align the bottom point of the right bounce indicator on the little knit on the kite thingy\n\n3. Shoot a shock dart with 1.5 Charge, 2 Bounce as to not waste a recon\n\n\nNow the fun part :\n\nHave your omen go through mid (Image 4) and tp up the vent.\nNow you have the most diabolical flank known the man in the first 10 seconds of the round.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/3278/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3278/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3278/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3278/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shrouded Step",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Hall to A Default Viper Post Plant",
+        "description": "Yes this lineup is real, but it's a little complicated.\n\n1. Stand in front of the stain on the right side of Chute.\n2. At the 2nd square on the bottom, aim your crosshair half way between the left side of the square and the welding mark near the right side of the square, and on the vertical axis aim SLIGHTLY below the skyline.\n3. Do a normal throw and this will land on Default.\n\nhttps://lineupsvalorant.com/?id=3045\n\n",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1027/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1027/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1027/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Mid Cannon to B Default",
+        "description": "1. Stand against the little wooden box, NOT on top of it!\n2. Align your crosshair with the bottom of the leaf sticking out.\n3. Left click.\n\nNOTE: If you hear the enemy tap the spike it's already too late if you throw it during that time due to travel time.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/746/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/746/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/746/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant A Breeze ",
+        "description": "1. (Stand in A lobby near the door)\n2. (Look up and place your crosshair at the hole like image 2)\n3. (And then left click)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/846/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/846/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/846/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly Post Plant B Elbow to B Default Plant",
+        "description": "1. Stand by the box on the way from B Elbow to Mid to the box, on the second inner plank\n2. Aim your Molly ability so that your Molly's mark hits the rock in B Elbow, which has a half circle with a right angle\n3. Shoot now and your lineup will hit the default plant on B site",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1232/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1232/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1232/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Bridge / A Spawn to A Side Corner Plant Pre / Post Plant",
+        "description": "1. Stand in the corner behind bridge in the defender spawn\n2. Aim the line under the Poisen Cloud ability between the wall and the line on the wall\n3. Shoot now and your lineup will hit the right Corner on A Site",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1235/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1235/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1235/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant: A Pyramid",
+        "description": "1. Stand on corner of the plank\n2. Align your HUD line with the corner of the support beam\n3. Do a simple throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/851/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/851/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/851/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Cave Slow Orb From Mid Link",
+        "description": "1. Stand against the wooden box in Mid Link.\n2. Aim to the top left of the light blue plank.\n3. Left-click.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1103/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1103/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1103/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Slow Orb",
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Molly/shock Dart on Default From Orange Box",
+        "description": "1. Stand on the small box, not the big one.\n2. Aim at the tiny nick in the big radianite box.\n3. Shoot the Molly/Slow Orb/Shock Dart on 2 charges and it should land default.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/624/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/624/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/624/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Old Default Post Plant B ",
+        "description": "Prevent the defuse of the spike from the old default plant spot using this lineup from Mid Cannon.\n1. Stand along this stain in Mid Cannon.\n2. Look up and place and line below your fuel charge value on the cannon above B Main.\n3. Fire your Snakebite, Slow Orb or a 2 Bar 0 Bounce Shock Bolt.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/80/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/80/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/80/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Easy B Default From Mid Cannon Breeze (works on New)",
+        "description": "1. Run into the box in Mid Cannon\n2. Aim towards the farthest leaf and move your crosshair until poison bar lines up with the wall.\n3. Normal shoot\n\nSORRY FOR THE HORRIBLE INSTRUCTIONS!\nThis lineup is great for people who don't wanna wiggle around the ground getting into the proper lineup spot.\n\nAlso check out my profile for a similar lineup for Old Default, its much simpler :D",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1248/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1248/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1248/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Mid Pillar to B Default",
+        "description": "1. Stand in the corner of the box and pillar (image 1).\n2. Put the tail of the Q on top of the roof (image 2)\n3. Fire the molly. it should take about 5.3 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1844/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1844/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1844/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Bricks Viper Molly",
+        "description": "1. Stand against the tires in Defender Spawn.\n2. Aim the top right of the shoot HUD at the X in a circle.\n3. Left-click.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1106/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1106/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1106/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Breeze Defender Spawn to A Default Post Plant",
+        "description": "1. Stand in the corner behind the small pillar.\n2. Aim at the two pronged leaf.\n3. Do a normal throw, and this will land on Default Plant.\n\nEdit: Still works!",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1302/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1302/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1302/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Yellow Box Viper Molly",
+        "description": "1. Stand on top of the rocks.\n2. Align the right edge of the molly HUD with the bottom of the metal sheet.\n3. Jump and left-click immediately.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1107/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1107/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1107/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Very Easy Old Default B Site Lineup Breeze (works on New)",
+        "description": "1. Walk into the box in Mid Cannon\n2. Aim towards the leaf that sticks the farthest out\n3. Normal shoot \n\nSuper fast and easy lineup, lands in 5 seconds.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1247/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1247/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1247/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Lobby to A Default ",
+        "description": "1. Stand against this metal post (image 1).\n2. Put the first dividing line of your toxin bar in the center of the gap (image 2)\n3. Fire the molly. It should take around 5.5 seconds to start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1845/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1845/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1845/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly Post Plant Defender Side Arches to B Default",
+        "description": "1. Stand on the box in Defender Side Arches and position yourself so that you are right between the 2nd brick gaps\n2. Move your Crossair so that it's slightly above the middle leaf (the one that sticks out the most)\n3. Shoot now and your lineup will hit the default plant on B site",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1231/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1231/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1231/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Breeze Post-plant B Default From Attacker Spawn",
+        "description": "1. Stand in corner where you can't move left and right while holding forward\n2. Lineup right part of viper wall HUD with the top of the single wall stone corner\n3. Jump Throw\n\nSafer than the usual box post-plant but more risky as it's a jump throw. Allows you to easily run to window afterward.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1079/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1079/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1079/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1079/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly Post Plant B Cannon to B Default Plant",
+        "description": "1. You stand at B Cannon at the beginning of the front board and position yourself against the wall\n2. You take the text of your Poisen Cloud and position it in the cannon barrel closest to B Site\n3. Shoot now and your lineup will hit the default plant on B site",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1230/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1230/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1230/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly pre Plant / Retake B Cannon to B Side Camp Spot",
+        "description": "1. Stand in the corner of Mid Cannon towards the attacker spawn, at the beginning of the wooden plank\n2. Aim your Molly ability so that the right corner of the shoot sign above your Molly ability align with the first lamp on the upper power line\n3. Shoot now and your lineup will hit the camp spot at the right side of the B Main entrance",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1233/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1233/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1233/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Corrode",
+    "lineups": [
+      {
+        "title": "A Main to A Pocket and A Yard Recon and Shock-dart.",
+        "description": "1) Stand the shown pillar aligning in the middle (Image 1) \n\n2) Crouch and aim at exact location on the wall where the bricks meet and shoot full charge recon with 1 bounce (Image 2)\n\n3) It will reveal  A Pocket and A Yard (Image 3).\n\n4) From same crouching alignment just point slightly right where the bricks meet and full charge shock dart  with 2 Bounces (Image 4).\n\n5) It will deal damage to anyone in pocket and covers the corner completely (Image 5).\n",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/6263/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6263/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6263/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6263/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6263/5.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "B Heaven Attackers Line-ups for Recon and Shock Dart.",
+        "description": "1) Stand with aligning yourself with that wooden door block in B-Main (Image 1)\n\n2) Aim at the corner of that patch on the wall and shoot recon with full charge (3) with 1 bounce (Image 2).\n\n3) It will reveal  B site heaven (Tower) and you can use the same line up to shock dart enemy hiding in that corner (Image 3).",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/6262/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6262/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6262/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Recon Bolt",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "A Pocket to Purple box Plant Stall (recon or Shock Dart)",
+        "description": "1. stand against the left side of the arch connecting Pocket and Elbow\n2. aim at the top of the 3rd brick just right of the metal beam in Elbow (image 2)\n3. 3 charges, 2 bounces\n4. BONUS: if done with a recon dart you are able to move into yard and press against the wall for a wall bang with high pen weapons (image 4)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/6156/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6156/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6156/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6156/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Fracture",
+    "lineups": [
+      {
+        "title": "Viper Molly Fracture Default A Side",
+        "description": "1. Stand in front of this line\n2. Line up the right corner \nfrom the Molly fire HUD to \nthe bottem from the line \nbetween the two ones\n3. Just Left click \n(it lands in 5 sec)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1223/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1223/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1223/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Attacking Spawn to A Default (1)",
+        "description": "1. Stand in front of the pinged line (image 1).\n2. put the bottom of your diamond (on your molly hud) on top of the line in (image 2)\n3. Fire the molly. It should take 5 seconds to and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1880/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1880/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1880/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "From B Main to B Boxes ",
+        "description": "1.STAND AT THE MARKED PLACE OF THE BOX\n2.AİM MARKED PLACE\n3.END",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1316/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1316/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1316/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Shock Dart From Spawn to B Site",
+        "description": "1. stand in the corner \n2. regardez entre les feuilles\n3. shot with 2,5 charges and 0 bounce ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1744/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1744/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1744/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Prevent Default B Defuse From B Main",
+        "description": "1) Stand in front of crack on the wall behind the box in B main. (Image 1) \n2) Line up with the branch sticking out from the left wall and the leaves sticking out from the wall with the light on it. (Image 2)\n3) Throw your snake bite, 2 bar 0 bounce shock dart or slow orb and it will land in 3 seconds.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/416/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/416/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/416/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Slow Orb",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Drop to A Default Fracture",
+        "description": "1. Stand in this corner in Drop\n2. Align the line in your HUD to the corner in the roof\n3. Normal shoot",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1525/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1525/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1525/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Default Molly Lineup for Defenders on A Site",
+        "description": "1. Go into this corner as shown\n2. Line up the right bottom corner of the toxin bar with the metal piece shown in the image (Regular throw)\n3. Where the molly lands",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1274/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1274/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1274/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Default Molly for B Site for Attackers",
+        "description": "1. Line up ur self with this line in Arcade\n2. Line up ur crosshair with this leaf as shown (Regular throw)\n3. Where the molly lands",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1277/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1277/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1277/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Bench to B Default (1)",
+        "description": "1. Stand in the corner on the bench (image 1).\n2. Put the top right corner of your toxin bar in the right side of the 0, where the paint re-appears (image 2).\n3. Fire the molly. It should take 3.5 seconds to land and start dealing damage.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1889/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1889/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1889/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Two Molly Lineups From the Same Spot to A Site up and Under",
+        "description": "a) under\nb) up\n1. Stand in this corner in dish\n2a. Aim between these bars\n2b. Aim at the end of the 3rd bar\n3. Normal throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1526/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1526/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1526/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1526/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1526/5.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Prevent B site default plant defuse from Canteen",
+        "description": "This molly covers default plant on B site to stop anyone defusing.\n1. Stand on the lighter mark of the moss patch in canteen. (Image 1)\n2. Place your crosshair at the center of the leaf that intersects the gap on the roof. (Image 2) \n3. Throw your snake bite, slow orb or a 2 bar 0 bounce Shock Bolt. (Image 3)\n\nThis lineup lands in ~5 seconds.\n        ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/296/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/296/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/296/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Slow Orb",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Attack Bridge to B Site Default",
+        "description": "1. Stand above the edge of this moss. \n2. Aim the reticle above this tiny leaf, and halfway at the edge of the metal part to the right. \n3. Shoot. \n\nOptional: Pairs well with a oneway smoke above default. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1399/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1399/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1399/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Attacking Spawn to A Default (2)",
+        "description": "1. Stand in front of the pinged line (image 1).\n2. put the right line of your target icon (on your molly hud) on top of  the metal wall line (image 2).\n3. Jump and fire the molly. It will take 5 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1881/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1881/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1881/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Drop to Safe Post Plant",
+        "description": "1. Stand near the corner near the edge of Drop.\n2. Look at the line beside where the tip of the logo is.\n3. Do a NORMAL THROW and this will land to cover Safe Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2414/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2414/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2414/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Dish to top Site Post Plant",
+        "description": "1. Stand in the corner near the entrance of Dish.\n2. Aim the right tip of your left HUD line onto the middle of the metal wire and the dish on the line.\n3. Do a NORMAL THROW and the molly will land to cover top site Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2413/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2413/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2413/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Post-plant B Tree to B Default Molly (3)",
+        "description": "1. Stand in the middle of the left side of the metal pipe (image 1).\n2. Place the top right corner of your toxin bar on the edge of the pinged leaf (images 2 &amp; 3).\n3. Fire the molly. It should take 5.3 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1892/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1892/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1892/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1892/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Tree to Behind B Dice Execute",
+        "description": "1. Stand in the corner on the left side of Tree.\n2. Aim slightly to the right of the first tiny spike on the tree.\n3. Do a NORMAL THROW and the molly will land behind Dice.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2415/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2415/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2415/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Haven",
+    "lineups": [
+      {
+        "title": "Stall Default A Defuse",
+        "description": "Prevent the defuse of the spike when it is planted in front of the boxes.\n1. Stand as pinged in image 1 in A Long.\n2. Place your crosshair to the left of the largest flower (shown in image 2).\n3. Throw your molly (two bar zero bounce shock dart) and it will land on default plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/6/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/6/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Incendiary",
+          "Snake Bite",
+          "Slow Orb",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Viper Lineup for B Default Plant Haven",
+        "description": "1. Plant spike as shown in picture\n2. Go to attacker spawn and stand in the middle of the back wall\n3. Line crosshair up with the mountain in the backdrop \n4. Normal throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1332/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1332/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1332/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1332/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Shock Dart for B Site Front Plant",
+        "description": "1. Stand on the ledge in Attacker Spawn.\n2. Aim at the top of the tower.\n3. Fire with 1 charge and 0 bounces.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1150/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1150/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1150/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Attacking Spawn to C Default",
+        "description": "1. Stand in front of the wall in (image 1).\n2. Adjust yourself so you can see an even amount of space between the right and left of the C Image 2)\n3. Put the top left corner of the molly hud a bit higher than the center of  the second divot in the roof, and to make sure, check to see if the the top of the target icon is touching the bottom of the roof (image 3)\n4. Fire the molly. It will take about 5.2 seconds to land and start dealing damge. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1858/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1858/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1858/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1858/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Garden to A Default ",
+        "description": "1. Stand in the pinged corner (image 1).\n2. Align the top left corner of your molly hud with the right end of the bright leaf (image 2).\n3. Jump and fire the molly. it should take around 5.4 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1855/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1855/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1855/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Lineup for A Default Plant",
+        "description": "1. Plant spike on default \n2. Stand on the sandbags in A long \n3. Aim at the bottom right part of that lightbulb",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1333/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1333/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1333/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1333/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Lineup Spawn to C Main",
+        "description": "this lineup takes around 8 - 10 seconds.\n1 bounce max charge.\n1. get into the clipping error right here. from my angle you can just hold W\n2. aim at the big dot between the 2 small dots on the sphere. \n3. boom, you scanned/shock darted c main",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/5984/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/5984/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/5984/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Haven Viper Post Plant Molly From C Site to B Site",
+        "description": "1. Plant the Spike on B Site in the back (Image 1)\n2. Stand on C Site in the corner of the Box (Image 2)\n3. Line yourself up with a window frame using the UI element (Image 3)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/928/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/928/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/928/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/928/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Attacking Spawn to B Site (3)",
+        "description": "1. Stand ON the corner with the flag, and the plant (image 1).\n2. Aim your crosshair in the top of the second window (image 2).\n3. Jump and fire the molly. *When you are at the TALLEST part of the jump, fire it*. It should take 3.4 seconds to land and start dealing damage",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1857/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1857/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1857/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Lineup for C Site Default Plant Haven",
+        "description": "1. Plant spike on default\n2. Stand up against the pole.\n4. Lineup the left part of your ultimate hud with the wood thats sticking out\n3. Normal throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1334/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1334/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1334/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1334/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Attacker Spawn to B Site (2)",
+        "description": "1. Stand ANYWHERE in attacking spawn, i chose to stand on the left side of the 3 holes (image 1).\n2. Aim your crosshair at the center of the sixth window (image 2).\n3. Jump and fire the molly. It should take 3 seconds to land and start dealing damage.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1856/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1856/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1856/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "C Link to Cubby Anti-push Molly",
+        "description": "1. Stand in the corner in C link by B.\n2. Aim the tip of your Wall icon onto the top right of the post.\n3. Do a NORMAL THROW and the molly will land to cover Cubby.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2455/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2455/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2455/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Icebox",
+    "lineups": [
+      {
+        "title": "Easy Post Plant B Lineup",
+        "description": "Use this lineup to defend the default plant spot, it is very versatile and can be used on many agents.\n1. Stand on the corner of this box in B Main (image 1).\n2. Look at the middle of this box in yellow and aim slightly down (image 2).\n3. If you are playing Killjoy, Raze or KAY/O running throw your molly and if you are playing any other agent throw your molly normally. For Sova aim slightly more down and do a 0 bar 1 bounce shock dart. It will land as shown in image 3.\nCredits to MrLowlander on YouTube.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/169/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/169/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/169/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Nanoswarm",
+          "Paint Shells",
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb",
+          "Frag_Ment",
+          "Mosh Pit",
+          "Poison Cloud"
+        ]
+      },
+      {
+        "title": "A Belt to A Default (post Plant)",
+        "description": "1. Align yourself with the middle of the wall.\n2. Aim your crosshair with the most right dark grey line and a bit down so it aligns with the vertical line, see picture 2 for reference.\n3. Left Click!\n\n",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/747/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/747/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/747/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Across the Map Pre-plant for Default B",
+        "description": "While rotating to B, throw this molly to delay plant.\n1. Stand in the doorway of screens/mid\n2. Aim the right side of poison bar with the bot-right edge of the dark gray bar (image 2)\n3. Throw the molly.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1245/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1245/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1245/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Stall Plant From A Screens",
+        "description": "1. Wedge yourself into the back corner of screens.\n2. Line up your bottom right HUD line with the small line break in the screens.\n3. Standard left click to fire, or 2-bar Shock Dart.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/909/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/909/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/909/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Icebox Post Plant A Ramp to Default Plant (box + Rope)",
+        "description": "1. Stand against the wall somewhat straight\n2. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/859/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/859/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/859/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Postplant From A Main to A Site",
+        "description": "1. Stay in middle of this wall\n2. Look up to middle of this line \n3. Throw molly",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/625/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/625/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/625/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Icebox A Rafter to Default Post Plant",
+        "description": "1. Stand close to the right wall of Raftors.\n2. Look anywhere in the top half of the leftmost line on the wall.\n3. Do a RUNNING throw, and this will land on Default (Safe) Plant.\n\nAlternatively, do a normal throw and it will (partially) land on Genny Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1286/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1286/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1286/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant B Site ",
+        "description": "1. Stand in the middle of the side of this door\n\n2. Aim right next to the cargo, aling your crosshair between the 2 upper white caracteres\n\n3. Shoot ! (For sova's main, 1 charge / 1 bounce) ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/5234/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/5234/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/5234/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/5234/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/5234/5.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Snake Bite",
+          "Incendiary",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Rafters Sloworb Lineup",
+        "description": "1. Stand against the left side of the right entrance to A site. (Walk up against the ping.)\n2. Align your crosshair with the middle of the black line along the ceiling.\n3. Fire. Rafters is now slowed c:",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1728/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1728/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1728/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Slow Orb",
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Icebox Viper Post Plant to A From Main",
+        "description": "1. Run into wall and line it up straight\n2. Lineup crosshair half way between the the cross in the ceiling tiles just under the shadow.\n3. It covers both default corner box and rope plant",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/858/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/858/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/858/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/858/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Icebox Snakebite for A Site if Rotating From B",
+        "description": "1. Stand in Corner\n2. Aim a little above the line on the ceiling tile\n3. Should cover most common plant location (Box + Rope)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/860/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/860/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/860/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "T Side A Stairs to A Nest",
+        "description": "1. Stand in the corner.\n2. Aim at the ledge in the middle, between the 2 arrows.\n3. Left click and activate your Poison Orb on the spike.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/464/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/464/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/464/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Shock Dart/early Recon From Attacker Side Spawn to B Yellow",
+        "description": "1. Stand in this corner (Picture 1)\n2. Aim the right corner of the right diamond at this shadow (Pictures 2/3)\n3. Shoot with full charge and 2 bounces",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/4074/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4074/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4074/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4074/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Easy Lineup With Sova,viper and Brim",
+        "description": "1. Stand on top of these barrels\n2.Aim at the left side of this specific arrow with your crosshair\n3 shoot but with sova is a jump shot with one bar",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/4237/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4237/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4237/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Incendiary",
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Viper Molly and Sova Dart From Attacker Side to A Site",
+        "description": "1. Plant here, and place your smoke\n2. Stand against this wall and align your crosshair like this\n3. Move your crosshair up to aim here\n4. Jump and throw the molly\nSova:\nFire with one bounce and 1 charge",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1860/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1860/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1860/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1860/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Attackers Spawn to B Site Back",
+        "description": "1. Stand On The Corner Of The Box Near Attacker Side Spawn\n2. Align The Left Bottom Line Of Your HUD With The Up Left Corner Of Number 1\n3. Left Click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1472/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1472/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1472/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1472/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant A Main to A Default",
+        "description": "1. Stand in this corner of the A Main\n2. Line up your crosshair like in the image 2\n3. Shoot it and it should go to the A Default - It takes about  3-4  seconds to land",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1959/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1959/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1959/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant A Main to A Default",
+        "description": "1. Stand in this corner of the A Main \n2. Line up your crosshair like in the image 2 (if you look close to my crosshair you can see a brighter pixel that you can line up)\n3. Shoot it and it should go to the A Default - It takes about 2-3 seconds to land \n\n!!!The line up does not go directly in to the rope but it can work if you plant the spike while looking to the Heaven (sorry for my bad english again :D)!!!",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1949/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1949/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1949/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant Molly B Site",
+        "description": "1. (go to the corner of B site)\n2. (Look and aim a little above the corner of the orange part)\n3. (and just throw)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/820/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/820/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/820/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Mid/under Tube Slow Orb",
+        "description": "1. Stand on the right side of the kitchen window overlooking under tube.\n2. Look at the middle of the dark grey line underneath tube.\n3. Throw slow orb. This slows the area under tube, as well as any attackers trying to talk up mid.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1729/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1729/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1729/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1729/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Slow Orb",
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Snake Bite From B Back to Back Yellow",
+        "description": "1. Stand at the corner (See Image 1)\n2. Look at the right tail of the HP HUD (See Image 2)\n3. Stand still and throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2090/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2090/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2090/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Site God Anti-plant Viper Molly",
+        "description": "1. Stand in the corner near the doorway.\n2. Aim slightly above the joint on the roof.\n3. Left-click.\n\nThis molly hits Default, Rope and Generator plant spots.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1402/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1402/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1402/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Pipe Icebox",
+        "description": "1. stand on this line up against the wall\n2. line up with the middle line and with the other line\n3. jump and shoot",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1912/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1912/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1912/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1912/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Icebox A Ramp to Nest *high Graphics Only",
+        "description": "1. Stand in the far right corner of the entrance of A site.\n2. Aim your crosshair in between the 2 tiles on the line. \n3. Do a normal throw, and this will land on Nest Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1278/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1278/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1278/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Viper Molly B Site Post-plant",
+        "description": "1. Stand in the middle line\n2. Align the right line on the Yellow/Black sticker\n3. Normal left click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1833/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1833/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1833/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Snake Bite From B Back to B Main (top Box)",
+        "description": "1. Stand at the corner (See Image 1)\n2. Look at the HUD dash between C and Q skills (See Image 2)\n3. Stand still and throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2091/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2091/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2091/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Lotus",
+    "lineups": [
+      {
+        "title": "C Lobby to Default Post Plant",
+        "description": "1. Stand on the right side line in the middle of the two boxes.\n2. Aim the left tip of your right HUD line onto the middle of the blue flower.\n3. Do an INSTANT JUMP throw and this will land to perfectly cover Default plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2305/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2305/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2305/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Viper Molly C Site Post-plant",
+        "description": "1. Stand between the 2 boxes\n2. Line up the middle line on the edge\n3. Jump throw left click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1771/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1771/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1771/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant C Main to C Site",
+        "description": "1. Stand in this corner of the C Main\n2. Lineup your Health Hud like in the image 2\n3. Shoot it and it should go to the C Site - It takes about 6 seconds to land \n\n ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2012/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2012/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2012/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant A Root to A Default Molly (1)",
+        "description": "1. Stand in the corner of the pinged location (image 1).\n2. Line the bottom right corner of the left line of the target symbol up with the top left of the pink leaf/flower (image 2).\n3. Jump and fire the molly. It should take 5.6 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1866/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1866/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1866/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "C Lobby to C Long ",
+        "description": "1. stand at the tip of the mirror\n2.  aim with the bottom part of the healt hud",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2131/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2131/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2131/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Snake Bite Site From Root",
+        "description": "1. Stand in Corner\n2. Align right side of horizontal line to bottom of leaf\n3.Left Click\n\n5 second travel time",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2348/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2348/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2348/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly B Site Post-plant",
+        "description": "1. Stand infront of the 2 boxes\n2. Align the Q in the middle of the triangle\n3. Normal left click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1772/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1772/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1772/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant A Rubble to B Default Molly (2)",
+        "description": "1. Stand in front of the grey wall (image 1).\n2. CROUCH.... make sure to crouch; put the diamond above your wall keybind on or near the tip of the leaves (image 2). \n3. Fire the molly. It should take 5 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1877/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1877/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1877/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Snake Bite for Default",
+        "description": "1. Stand in Corner\n2. Aim at top of the circle with HUD line",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2355/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2355/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2355/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Site C",
+        "description": "1 go on the second box of the lobby C\n2 look the sky with the corner right is on the corner of the decoration \n3 charge 2,5 with jump and two bounces",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/3331/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3331/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3331/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Recon Bolt",
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant A Rubble to B Default (1)",
+        "description": "1. Stand in front of the pinged grey wall (image 1).\n2. Line the left part of the toxin wall icon up with the edge of the leaves (image 2)\n3. CROUCH and fire the molly. It should take 5.6 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1876/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1876/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1876/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1876/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant for Mound",
+        "description": "1. Against Wall\n2. Align the end of right part of HP HUD line with the green leaf",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2360/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2360/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2360/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Sova C Site Shock Dart Post Plant",
+        "description": "1. Stand in the middle of this beam (see image 1).\n\n2. Aim at this corner (see image 2).\n\n3. Do 1 charge.\n\n4. Stalls the bomb if planted in this corner (see image 4).\nYou can do a recon dart preemptively to see if they're going to stick it.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/4369/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4369/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4369/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4369/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Sova B Site Shock Dark Post Plant",
+        "description": "1. Stand in the corner between the button and the right wall. (see image 1).\n\n2. Aim at right side of the second beam and align it with the top of the box on the left (see image 2).\n\n3. Do 2 charge with 1 bounce.\n\n4. Stalls bomb if you plant it in the middle of B site.\nYou can do a recon dart preemptively to see if they're going to stick it.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/4367/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4367/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4367/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4367/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Snakebite for Default",
+        "description": "1. Stand anywhere aginst the wall\n2. aim at middle of water",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2357/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2357/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2357/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Sova A Site Shock/recon Dart Post Plant",
+        "description": "1. Stand in the middle of these bricks (see image 1).\n\n2. Aim at the middle of this vine (see image 2).\n\n3. Just tap it\n\n4. Stalls the bomb if planted to the right of the box on site (see image 4). \nYou can do a recon dart preemptively to see if they're going to stick it.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/4368/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4368/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4368/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/4368/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Recon Bolt"
+        ]
+      },
+      {
+        "title": "Post-plant C Lobby to C Default Molly (2)",
+        "description": "1. Stand in the middle of the pinged sculpture thing (image 1).\n2. Align the right target line on your molly hud with the leaf in (image 2).\n3. Slowly go to the left until the molly hud outline is on the tip of the leaf (image 3).\n4. Jump and fire the molly. It should take 5.4 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1879/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1879/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1879/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1879/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly A Site Post-plant",
+        "description": "1. Stand between the rocks\n2. Alignt the left line of the Poison Orb on the Leaf\n3. Normal left click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1773/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1773/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1773/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Quick Safe Plant Snake Bite",
+        "description": "1. Against wall\n2. Aim crosshair at bottom left of the wooden nub",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2361/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2361/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2361/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Outside B to Middle Site Post Plant",
+        "description": "1. Line yourself up on the line between the box and wall.\n2. Aim in the middle of where the tip of the plant is and the wall.\n3. Do a NORMAL THROW and this will land to cover middle site plant.\n\nWARNING: High detail only",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2301/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2301/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2301/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Defender Spawn to C Defaults Anti-plant",
+        "description": "1. Get into the corner beside the entrance to C.\n2. Aim at the tip of the leaf.\n3. Do an INSTANT JUMP throw and this will land to cover both C Defaults.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2347/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2347/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2347/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Root to Left Side Default Post Plant",
+        "description": "1. Tuck into the corner behind the rock.\n2. Aim the tip of your molly icon onto the curly vine.\n3. Do a NORMAL THROW and this will land to perfectly cover left side default.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2302/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2302/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2302/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Viper Safe Post-plant Lotus Lineup to A From Roots",
+        "description": "1. Stand in the corner of roots near A lobby\n2. Lineup ability dot between two cracks in the tree like on the picture\n3. Simply do a left click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2069/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2069/2.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant From C Lobby",
+        "description": "1. Stand against wall\n2. Allign Horizontal Line with bottom of leaf\n",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2358/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2358/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2358/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant C Lobby to C Default Molly (1) ",
+        "description": "1. Stand in the middle of the pinged sculpture thing (image 1).\n2. Put the top left corner of your molly ability hud in the space between the leaves (image 2).\n3. Jump and fire the molly. It should take 5.6 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1878/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1878/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1878/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant A Root to A Default Molly (2)",
+        "description": "1. Stand in the pinged location (image 1).\n2. Put the white diamond that is above the E, on the tip of the leaf (image 2).\n3. Jump and fire the molly. It should take around 5.6 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1867/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1867/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1867/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Pearl",
+    "lineups": [
+      {
+        "title": "Post Plant B Site Generator/corner From Ramps",
+        "description": "1. Stand in corner.\n2. Line up snake bite indicator with roof tile. It's a pretty pixel perfect line up so it takes practice. (Image 2)\n3. Simple left-click. Snake bite lands in 6 seconds.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/713/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/713/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/713/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Pearl Post-plant Lineup From A Main #2 Default",
+        "description": "1. Stand in corner\n2. Left part of Orb Hud line with corner of pillar structure, once lined up, crouch and throw\n3. Throw while holding crouch",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/952/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/952/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/952/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant a Site From mid Connector",
+        "description": "1. Stand in corner of mid connector.\n2. Line up top left of poison bar indicator with corner on the roof. (Image 2)\n3. Simple left-click. Snake bite lands in 4 seconds.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/708/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/708/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/708/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant a Site From Restaurant",
+        "description": "1. Stand close to wall. (Image 1)\n2. Line up crosshair with vertical line on top of archway. (Image 2)\n3. Simple left-click. Snake bite lands in 2 seconds.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/709/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/709/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/709/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Wallbang Mid Connector to Midshop",
+        "description": "1. align yourself to this part of the wall\n2. crouch down and aim at this box in mid doors\n3. Shoot 1-2s after barrier is down\n\nUse High-Pen weapons (Sheriff, Guardian, Odin, etc.)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/7349/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/7349/2.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Gravity Well",
+          "Nova Pulse",
+          "Nebula_Dissipate",
+          "Cosmic Divide",
+          "Rolling Thunder",
+          "Fault Line",
+          "Aftershock",
+          "Flashpoint",
+          "Incendiary",
+          "Sky Smoke",
+          "Orbital Strike",
+          "Rendezvous",
+          "Trademark",
+          "Meddle",
+          "Trapwire",
+          "Cyber Cage",
+          "Spycam",
+          "Barrier Mesh",
+          "Sonic Sensor",
+          "GravNet",
+          "Annihilation",
+          "Prowler",
+          "Seize",
+          "Haunt",
+          "Nightfall",
+          "Dizzy",
+          "Wingman",
+          "Mosh Pit",
+          "Thrash",
+          "Storm Surge",
+          "Frag_Ment",
+          "Flash_Drive",
+          "Zero_Point",
+          "Alarmbot",
+          "Nanoswarm",
+          "Turret",
+          "Lockdown",
+          "Relay Bolt",
+          "Fast Lane",
+          "Shrouded Step",
+          "Paranoia",
+          "Dark Cover",
+          "Hot Hands",
+          "Boom Bot",
+          "Paint Shells",
+          "Slow Orb",
+          "Guiding Light",
+          "Barrier Orb",
+          "Owl Drone",
+          "Shock Bolt",
+          "Recon Bolt",
+          "Hunters Fury",
+          "Stealth Drone",
+          "Special Delivery",
+          "Guided Salvo",
+          "Armageddon",
+          "Interceptor",
+          "Chokehold",
+          "Snake Bite",
+          "Poison Cloud",
+          "Toxic Screen",
+          "Vipers Pit",
+          "Razorvine",
+          "Shear",
+          "Arc Rose",
+          "Saturate",
+          "Lightspeed",
+          "Refract",
+          "Convergent Paths",
+          "Fakeout",
+          "Blindside",
+          "Gatecrash"
+        ]
+      },
+      {
+        "title": "Molly to B Site Corner Default",
+        "description": "1. Stand to the right of the small box and walk all the way into the corner.\n2. Look so the bottom right of your toxin gas bar is lined up with the bottom left of the wood piece in the door.\n3. Make a normal throw.\n\nTakes ~5 seconds to land.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/784/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/784/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/784/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant From A Restaurant",
+        "description": "1.  Stand in this Corner at A Restaurant (Picture 1)\n2.  Make the Hud look like this -&gt; (Picture 2,3)\n3.  Stay and just shoot and it will end like in (Picture 4)",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1165/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1165/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1165/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1165/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Snakebite: A Ramp to A Default ",
+        "description": "• Stand in the corner of A Ramp.\n• Lineup left line of hud with the corner of the small, brick ledge as shown.\n• Shoot snakebite and t-bag enemies.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1511/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1511/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1511/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant b Site From Ramp",
+        "description": "1. Stand close to center of door.\n2. Line up top-right corner of poison orb activation indicator with center of wall. (Image 2)\n3. Simple left-click. Snake bite lands in 5 seconds.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/710/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/710/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/710/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant : Combo Sage",
+        "description": "1. French : Place le spike ici. English : Place the spike here.\n2. French : Place ton wall sous tes pieds en face du site. English : Place your wall under your feet in front of the site.\n3. French : Maintenant tu peux voir le spike de loin a partir de ton wall. English : Now you can see the spike from a distance from your wall. \nNow with Viper you can help him with C Viper \n4. French : Place toi la. English : Place here\n5. French : Vise ici et c'est tout. English : Aims here and them\n6. Ez",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/829/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/829/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/829/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/829/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/829/5.webp",
+          "https://lineupsvalorant.com/static/lineup_images/829/6.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Barrier Orb",
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant a Site From Main",
+        "description": "1. Stand in corner in A main.\n2. Lineup poison orb activation indicator with edge of pillar. (Image 2)\n3. Simple left-click. Snake bite lands on A default in 4 seconds. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/707/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/707/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/707/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Pearl A Secret to Default Post Plant",
+        "description": "1. Stand in the corner in Secret close to Dugout.\n2. Aim the right tip of your right HUD line onto the corner of the first bar on the balcony (two pictures for clarity).\n3. Do a normal throw, and this will land on Default.\n\nEdit: Still works!",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1306/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1306/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1306/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1306/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Mid Doors to B Default Pearl",
+        "description": "1. Stand in this corner in Mid Plaza / Doors\n2. Aim between these leaves.\n3. Normal shoot!\n\nNote: There is quite a lot of leeway along the horizontal axis for the bottom leaves (the fork of leaves), just make sure to line up with the top single leaf.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1372/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1372/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1372/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Pearl Connector to A Default Viper Post Plant",
+        "description": "1. Stand in the corner of connector closest to A site.\n2. Aim the right tip of your left hud line in the middle of the 2nd and 3rd pillars.\n3. Do a normal throw, and this will cover A Default, and the corner looks like it's safe but isn't.\n\nEdit: Still works!",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1036/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1036/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1036/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Pearl Post-plant A Cubby Bomb",
+        "description": "1. Stand near A Main entrance\n2. Run and throw  off top portion of wall\n3. Lands in cubby bomb spot",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1052/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1052/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1052/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Universal B Ramp to Radianite Plant (default Long)",
+        "description": "1. Stand anywhere along the B Ramp wall. The further right you are the easier it is\n2. Ensure you see the black pyramid and the edge of the faraway building\n3. Align like so (precision not needed)\n\n\n- Brim/Viper molly - Standard throw\n- Viper Orb/ Gekko/Killjoy/KAYO/Deadlock/ Harbor Cove (to cover plant) - Jump throw\n- Sova - 0 bounce 1.5 charge throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/3320/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/5.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/6.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/7.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/8.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/9.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/10.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3320/11.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Incendiary",
+          "GravNet",
+          "Mosh Pit",
+          "Frag_Ment",
+          "Nanoswarm",
+          "Shock Bolt",
+          "Snake Bite",
+          "Poison Cloud"
+        ]
+      },
+      {
+        "title": "Pearl B Site Post-plant Defense Default Plant",
+        "description": "Step 1: Stand where pinged in image\nStep 2: Run and throw\nStep 3: Deny plant\n\nWanted to find some lineups to play from up here while smoked off.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2214/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2214/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2214/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Snakebite: A Restaurant to A Cubby",
+        "description": " • Stand in the corner of A Restaurant.\n • Lineup left line of hud with the corner of the chimney as shown.\n • Shoot snakebite and t-bag enemies.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1505/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1505/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1505/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Main/ramp to Secondary Post Plant",
+        "description": "1. Stand in the 2. cross in the ground after the pillar\n2. Position the 3rd line of your poison displays on the bottom of the gap in the pillar\n3. Shoot, and your molly will hit the secondary plant spot",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1335/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1335/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1335/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Pearl B Site Post-plant Defense Box/long Plant",
+        "description": "Step 1: Stand in pinged image\nStep 2: Throw\nStep 3: Deny plant",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2215/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2215/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2215/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2215/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Top Ramp to B Default Post Plant",
+        "description": "1. Stand anywhere on the back wall behind the Console.\n2a. Aim in the middle of the tip of the pointed roof and the brown corner.\n2b. Lines for clarity.\n3. Do a NORMAL THROW and this will land to cover Default long plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2333/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2333/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2333/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2333/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Incendiary"
+        ]
+      },
+      {
+        "title": "Rotate Lineup From B Link to A Site",
+        "description": "1. Stand as pinged in image 1 in B Link.\n2. Aim to middle of this corners.\n3. Jump and Throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1075/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1075/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1075/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Snakebite: A Restaurant to A Default",
+        "description": " • Stand in the corner of Restaurant.\n • Lineup left line of hud along the side of the flowers as shown.\n • Shoot snakebite and t-bag enemies.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1506/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1506/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1506/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Pearl Post-plant Lineup From B Main Corner Box Near Hallway",
+        "description": "1. Stand in corner\n2. Lineup right part of Hud Line near first roof tile on 2nd row.\n3. Throw",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/955/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/955/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/955/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Mid Doors to B Radianite Pearl",
+        "description": "1. Stand in this corner in Mid Plaza / Doors\n2. Line up the corner of your HUD to this leaf\n3. Normal shoot\n\nNote: Check out my other lineup for B Generator Default, it starts from the same spot ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1373/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1373/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1373/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Ramp To B Gen",
+        "description": "(High Resolution)\n1. stand in this corner\n2. look at top 3rd triangle \n3. put the diamond in the line under\n4. normal release\n\n(Lower resolutions)\n1. stand in this corner\n2. aim the left side of toxin bar in the middle of this bar\n3. normal release",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2447/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2447/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2447/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2447/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2447/5.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2447/6.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Ramp To B Default",
+        "description": "1. stand in this corner\n2. look at the arrow to the left of the dolphin\n3. put the tip of the orb on the arrow\n4. normal release",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2448/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2448/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2448/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2448/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Main/ramp to Default Post Plant",
+        "description": "1.  Stand in the 2. cross in the ground after the pillar\n2. Position your Crossair right ahead on the end of the 3. line of the pillar (from the right side) \n3. Shoot, and your molly will hit the default plant spot",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1336/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1336/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1336/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Snakebite: Mid Plaza to A Cubby",
+        "description": "• Stand on the right side, corner, of the ramp that splits Mid Plaza.\n• Lineup the Left line of Ult in hud, with the corner of the vent opening as shown. (use picture to understand trust)\n• Shoot molly and t-bag enemies.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2444/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2444/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2444/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "map": "Split",
+    "lineups": [
+      {
+        "title": "B Safe Universal Defuse Denial From Close Garage",
+        "description": "1. Go behind this box in Garage\n2. Walk back until this green sign is aligned with the top of the box (no precision needed)\n3. Stop, throw. Lands in ~3 seconds\n\nWorks for every heavy molly.\nWorks for Viper Orb and snakebites.\nWorks for Phoenix molly\nWorks for Sova 1-bounce HALF-charge\n\nCredit to BrimSensei\n\n<link id=3749>Same lineup but for the exposed plant</link>",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2608/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2608/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2608/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2608/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Incendiary",
+          "GravNet",
+          "Mosh Pit",
+          "Frag_Ment",
+          "Nanoswarm",
+          "Snake Bite",
+          "Poison Cloud",
+          "Hot Hands",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Post Plant B Site",
+        "description": "This lineup is great for stalling the defuse when the spike is planted default on B site.\n1. Stand in the corner near this booth in B lobby.\n2. Aim at the lower right corner of the green screen.\nCan also be combined with Poison cloud.\n        ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/245/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/245/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/245/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Incendiary",
+          "Slow Orb",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Post-plant A Lobby to A Default Molly",
+        "description": "1. Stand in the corner of the pinged spot (image 1).\n2. Aim the bottom left corner of your toxin bar with the corner of the blue spot (image 2).\n3. Fire the molly. It will take 5.2 seconds to land and start dealing damage. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1861/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1861/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1861/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly a Side Post Plant",
+        "description": "1. stand in A lobby next to this flowerpot.\n2. place the middle hud line on the middle light.\n3. left click.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1869/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1869/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1869/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Safe Plant Denial or Defuse Stall From Heaven",
+        "description": "1. Align the left door side to the orange sign, doesn't need to be precise\n2. Aim in the middle of the Chinese lamp and the door wall. The height doesn't matter very much, but I like to aim around the barely visible shadow's corner\n3. Run forward until you're almost exposed, throw while running\n4. Prevents enemies planting behind the box OR stalls defuse\n\n- Works with all kinds of mollies and 1-bounce-0-charge shock darts\n\nCredit to Perry2N",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2093/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2093/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2093/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Incendiary",
+          "Mosh Pit",
+          "Snake Bite",
+          "Nanoswarm",
+          "Frag_Ment",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Exposed Universal Defuse Denial From Garage",
+        "description": "1. Go behind this box in Garage\n2. Walk back until this green sign is aligned with the top of the box (no precision needed)\n\nHeavy Mollies/Viper Orb/Harbor Cove:\n- Aim at this pipe junction\n- TAP W then immediately throw\n\nSova Shock dart:\n- Aim at this pipe junction\n- 0-bounce 1-charge or a bit less\n\nBrim Molly/Viper Molly/Sage Slow\n- Aim here\n- Standard throw\n\nWorks for Phoenix Molly and Fade Seize as well\n\n<link id=2608>Same lineup but for the Safe Plant</link>",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/3749/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3749/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3749/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3749/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3749/5.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3749/6.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3749/7.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Frag_Ment",
+          "Incendiary",
+          "GravNet",
+          "Seize",
+          "Mosh Pit",
+          "Nanoswarm",
+          "Hot Hands",
+          "Slow Orb",
+          "Shock Bolt",
+          "Snake Bite",
+          "Poison Cloud"
+        ]
+      },
+      {
+        "title": "B Lobby to B Open Plant",
+        "description": "1. Stand against the trash can.\n2. Aim the HUD line at the dots shown in image 2.\n3. Left-click.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1639/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1639/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1639/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Viper Molly a Lobby Post Plant",
+        "description": "1. stand in A loby next to this flowerpot.\n2. place the shoot icon from the hud on the end of the leave\n3. left click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1872/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1872/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1872/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Heaven to Plant Denial Shock",
+        "description": "1. Stand in this spot of heaven and move until you can just see the rope\n2. Aim at the white strip on the pipe\n3. 2 bar 1 bounce",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/421/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/421/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/421/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Site Defuse Denial Double Shock",
+        "description": "1. Stand on top of this plant in the corner of A Lobby\n2. Aim in the cross-section of the tip of the building and the left edge of the blue horizontal line, 2 bar\n3. Align bottom tip of left bounce diamond at the point where the bars cross as shown, 1 bar\n4. Fire shocks immediately, no delay needed",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/418/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/418/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/418/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/418/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Safe Plant Universal Lineup",
+        "description": "1. Stand in the corner behind the safe box in Garage.\n2. BACK UP until you see the pipes on the walls (while hugging the left wall).\n3. Aim HALFWAY DOWN the metal below the 2nd pipe rung.\n4. Do a NORMAL throw on any agent (EXCEPT SOVA and KAY/O) and the molly, seize, or slow will land on Safe Plant. (Brim molly trajectory)\n5a. For Sova, aim slightly ABOVE the pipes, 1 bounce 1.5 charge.\n5b. Viper molly traj. (Still hits all of bomb)\n5c. Viper orb traj\n5d. Sage slow traj\n5e. Phoenix molly traj\n5f. KJ molly traj\n5g. For KAY/O, aim 2/3 down instead of 1/2 down.\n5h. KAY/O molly traj\n5i. Harbor Cove traj\n5j. Fade Seize traj\n5k. Gekko molly traj.\n5L. Deadlock crouch traj.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/3324/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/4.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/5.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/6.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/7.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/8.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/9.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/10.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/11.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/12.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/13.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/14.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/15.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3324/16.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Poison Cloud",
+          "Shock Bolt",
+          "Slow Orb",
+          "Hot Hands",
+          "Nanoswarm",
+          "Frag_Ment",
+          "Mosh Pit",
+          "Seize",
+          "GravNet",
+          "Incendiary"
+        ]
+      },
+      {
+        "title": "Viper Molly a Site Post Plant",
+        "description": "1. stand in A loby next to this flowerpot. \n2. place the top flame of the wal ability on the spot between these bushes. (picture 2)\n3. left click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1873/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1873/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1873/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "B Lobby to B Open Plant Alternative Molly",
+        "description": "1. Stand against the metal.\n2. Aim the bottom right HUD line at the corner of the pipe and the sign.\n3. Left-click.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1640/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1640/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1640/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Defender Spawn to B Default",
+        "description": "1. Stand in front of the middle concrete post (image 1).\n2. Align the top left corner with where the wire and the corner of the window meet (image 2).\n3. Jump and fire the molly. It should take 5.5 seconds to land and start dealing damage.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1859/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1859/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1859/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post Plant B Main to B Default",
+        "description": "1.  Stand in this corner of the B Main\n2. Lineup your crosshair like in the image 2\n3. Shoot it and it should go to the C Site - It takes about 2-3 seconds to land\n\n!!!Sorry for not posting lineups!!!",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2032/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2032/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2032/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Split B Alley to B Site",
+        "description": "1. Stand in this corner of B Alley\n2. Aim with the first small line of your Toxin bar at the triangle marked in picture 2\n3. normal left click",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2294/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2294/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2294/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Screens to Corner Plant",
+        "description": "1. Stand in the back corner of the room beside Screens.\n2a. Aim at the top hole in the neon sign.\n2b. Picture for clarity.\n3. Do a NORMAL throw and this will land to cover Corner Plant.\n",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2014/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2014/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2014/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2014/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "Post-plant A Lobby to Site 3 Locations",
+        "description": "1. Corner of Plant\n2. 1cm from blue line\n      a.Heaven spike left of blue line\n      b.Default spike under blue line\n      c.Default  spike above blue line\n3. 5 seconds to land",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2341/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2341/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2341/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Ramps to A Main Anti-rush Molly",
+        "description": "1. Wedge yourself in this corner in A Ramps\n2. Aim at the top of this square thing where it intersects the apartment's side.\n3. Quickly lands in A main's choke (get ready to fight for Heaven control)\n\n- Works for all lightweight mollies: Brim, KAY/O, Killjoy, Viper snakebite\n- Works with heavy mollies BUT you aim at the leftmost corner of the rectangle instead: Gekko mosh pit, Sova shock dart 1-bounce-0-charge, Harbor, Viper poison orb",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2092/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2092/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2092/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Incendiary",
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb",
+          "Mosh Pit",
+          "Nanoswarm",
+          "Frag_Ment",
+          "Poison Cloud"
+        ]
+      },
+      {
+        "title": "A Ramps to A Corner Plant Defuse Stall",
+        "description": "1. Wedge yourself in this corner in A Ramp\n2. Align the leftmost ability separator with this dot\n3. Standard throw for Brim/Viper, 2 charges for Sova",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/3321/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3321/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3321/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/3321/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Incendiary",
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Garage to Default Easy Post Plant Molly",
+        "description": "1. Stand in the corner behind the metal box.\n2. BACK UP until you can barely see below the roofing, then look in the center of the wood.\n3. Do a NORMAL THROW and the molly will land to cover Default.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2533/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2533/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2533/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Post Plant A Default",
+        "description": "This lineup is great for stalling the defuse when the spike is planted on one of the two default spots. \n1. Stand in A Lobby as shown in image 2 \n2. Place your crosshair on the bottom left of the light if the spike is planted behind the pillar/wall (image 3) or at the far top right of the light if the spike is planted behind the screen (image 4)\n3. Shoot your Snake Bite or a 2 bar 0 bounce Shock Bolt.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Mid Stairs Double Shock",
+        "description": "1. Stand in this corner of A Ramp\n2. Aim close to the left wall while being in line with the tall building in the background as shown, 3 bar 1 bounce\n3. Immediately run to vents and stand until it is possible to see all of the stairs leading to B Heaven\n4. Aim anywhere between the blue line and the ending line of the stairs on the right wall as shown, 3 bar 2 bounce\n\nA certainly confusing lineup, but useful to get those quick picks on aggressive Mid pushes. Consider trying this lineup in a custom to get a feel for and speed of hitting the shocks.\n\nCredit to Snapiex",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/425/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/425/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/425/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/425/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Shock Bolt",
+          "Snake Bite",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Lobby to Behind TV Post Plant",
+        "description": "1. Stand in the corner behind the planter box.\n2a. Aim parallel to the blue light on the edge of the yellow light.\n2b. Line for clarity.\n3. Do a NORMAL THROW and the molly will land to cover Behind TV plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2519/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2519/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2519/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2519/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Viper Molly a Side Post Plant",
+        "description": "1. stand in A loby next to this flowerpot. (picture 1)\n2. look at the line and remeber it. (picture 2)\n3. place the right line of the hud on that line (picture 3). it is very precise. if it is to high it wil  land on the roof of the caffé. i suggest to practice it in custom game.\n4. left click. ",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1871/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1871/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1871/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1871/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Lobby to A Box",
+        "description": "1. Stand in the pinged corner (image 1).\n2. imagine a 90 degree angle coming from the end of the white building's corner and the right side of the tower light (image 2).\n3. Fire the molly. It should take 5 seconds to land and start dealing damage. \n\ncreds to WildBreadMen.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1862/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1862/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1862/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      },
+      {
+        "title": "A Lobby to Safe Plant Post Plant",
+        "description": "1. Stand in the corner behind the planter box.\n2. Aim the right tip of your left HUD line onto the bottom of the white tower.\n3. Do a NORMAL THROW and the molly will land to cover Safe Plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2518/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2518/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2518/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "A Lobby to For-heaven Post-plant Molly",
+        "description": "1. Stand in the corner behind the planter box.\n2a. Aim in-between the left side of the glowing light and the white neon tower.\n2b. Line for clarity.\n3. Do a NORMAL THROW and the molly will land to cover for-heaven plant.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/2517/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2517/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2517/3.webp",
+          "https://lineupsvalorant.com/static/lineup_images/2517/4.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt"
+        ]
+      },
+      {
+        "title": "Viper Molly a Side Post Plant",
+        "description": "1. stand in A loby next to this flowerpot.\n2. place the right hud line on the right light.\n3. left click.",
+        "images": [
+          "https://lineupsvalorant.com/static/lineup_images/1870/1.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1870/2.webp",
+          "https://lineupsvalorant.com/static/lineup_images/1870/3.webp"
+        ],
+        "video": null,
+        "tags": [
+          "Snake Bite",
+          "Shock Bolt",
+          "Slow Orb"
+        ]
+      }
+    ]
+  }
+]
