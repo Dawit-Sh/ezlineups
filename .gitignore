@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Logs
+valorant_lineups.json
+*.log
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+bin/
+lib/
+include/
