@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Data & Logs
-valorant_lineups.json
 *.log
 
 # Environments
