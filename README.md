@@ -1,51 +1,39 @@
-# Valorant Lineups Scraper
+# Valorant Lineup Telegram Bot
 
-A robust Python-based web scraper for [lineupsvalorant.com](https://lineupsvalorant.com). Extract agent-specific and map-specific lineups with full descriptions, images, and tags.
+A Telegram bot that provides step-by-step Valorant lineup guides with images, using a local JSON dataset.
 
 ## Features
+- **Progressive Guides**: Sends each lineup step as a separate message with its corresponding image.
+- **Visual Learning**: Prioritizes images for each step.
+- **Two Search Modes**:
+    - **Single-line**: Send `Sova Ascent attack` for quick results.
+    - **Guided Selection**: Use interactive buttons to choose Agent, Map, and Side.
+- **Smart Filtering**: Detects side (Attack/Defense) based on keywords.
 
-- **Full Extraction**: Handles both lineups and setups.
-- **Pagination**: Automatically crawls all available results.
-- **Multi-Agent Support**: Captures lineups shared by multiple agents.
-- **CLI Support**: Filter results by agent or map.
-- **Rate Limited**: Respects site boundaries with Throttling and retries.
+## Setup Instructions
 
-## Installation
+1. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-```bash
-pip install -r requirements.txt
-```
+2. **Configure Environment**:
+   - Create a `.env` file based on `.env.example`.
+   - Add your [Telegram Bot Token](https://t.me/BotFather).
+   - Ensure `DATA_PATH` points to `data/valorant_lineups.json`.
 
-## Usage
+3. **Run the Bot**:
+   ```bash
+   python bot.py
+   ```
 
-Scrape all lineups:
-```bash
-python scraper.py
-```
+## Project Structure
+- `bot.py`: Main bot logic and handlers.
+- `data/valorant_lineups.json`: Lineup dataset.
+- `requirements.txt`: Python dependencies.
+- `.env.example`: Environment variable template.
 
-Scrape a specific agent or map:
-```bash
-python scraper.py --agent Sova --map Ascent
-```
-
-## Data Structure
-
-Results are saved to `data/lineups.json` in the following format:
-
-```json
-[
-  {
-    "agent": "Sova",
-    "map": "Ascent",
-    "lineups": [
-      {
-        "title": "A Site Recon",
-        "description": "...",
-        "images": ["url1", "url2"],
-        "video": "url",
-        "tags": ["Shock Bolt"]
-      }
-    ]
-  }
-]
-```
+## Requirements
+- Python 3.8+
+- `python-telegram-bot`
+- `python-dotenv`
